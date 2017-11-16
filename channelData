@@ -34,7 +34,9 @@
 { "title" : "헬로카봇 - hello carbot official", "id" : "UC0SVqB_1E2Kgh3cx3Y8xtfA", "img" : "", "sort" : "24"},
 { "title" : "깨비키즈 [KEBIKIDS]", "id" : "UCD_-N4vf-tsqbUxrQ4CrJIA", "img" : "", "sort" : "25"},
 { "title" : "로보카폴리TV", "id" : "UCr-rCvgg21KqfrnGopaQeGw", "img" : "", "sort" : "26"},
-{ "title" : "코코몽", "id" : "UCmKH1rkv9OJ1FjM64qbeLVw", "img" : "", "sort" : "27"}
+{ "title" : "코코몽", "id" : "UCmKH1rkv9OJ1FjM64qbeLVw", "img" : "", "sort" : "27"},
+{ "title" : "소피루비", "id" : "UCh9Uoo1GnL5WSAsKlwGEA9g", "img" : "", "sort" : "28"}
+
       ]
     }    
   ]
