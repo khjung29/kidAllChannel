@@ -7,7 +7,7 @@
       "typenames" : [""],
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
-        { "title" : "캐리와 장난감 친구들", "id" : "UCN106RQxroojNzkEMuRC0BA", "img" : "", "sort" : "1"},
+{ "title" : "캐리와 장난감 친구들", "id" : "UCN106RQxroojNzkEMuRC0BA", "img" : "", "sort" : "1"},
 { "title" : "EBSKids (EBS 유아)", "id" : "UCx_dzPI6efSohgtOkAG43-A", "img" : "", "sort" : "2"},
 { "title" : "핑크퐁 (인기 동요・동화)", "id" : "UCqXwKu6dKobXEQFhdKtiJLQ", "img" : "", "sort" : "3"},
 { "title" : "쥬쥬 & 콩순이", "id" : "UC3sCmmMaM383cjv1jNdiU2w", "img" : "", "sort" : "4"},
@@ -35,8 +35,11 @@
 { "title" : "깨비키즈 [KEBIKIDS]", "id" : "UCD_-N4vf-tsqbUxrQ4CrJIA", "img" : "", "sort" : "25"},
 { "title" : "로보카폴리TV", "id" : "UCr-rCvgg21KqfrnGopaQeGw", "img" : "", "sort" : "26"},
 { "title" : "코코몽", "id" : "UCmKH1rkv9OJ1FjM64qbeLVw", "img" : "", "sort" : "27"},
-{ "title" : "소피루비", "id" : "UCh9Uoo1GnL5WSAsKlwGEA9g", "img" : "", "sort" : "28"}
-
+{ "title" : "소피루비", "id" : "UCh9Uoo1GnL5WSAsKlwGEA9g", "img" : "", "sort" : "28"},
+{ "title" : "CarrieAndPlay", "id" : "UC9qPzGYgaNhx8ql4Nl46BBA", "img" : "", "sort" : "29"},
+{ "title" : "CarrieAndEnglish", "id" : "UCvLrF72yAnQ4mMxpM_yS2CQ", "img" : "", "sort" : "30"},
+{ "title" : "CarrieAndSong", "id" : "UCTSBIZlNRJ-ZLUVPp0fEH9A", "img" : "", "sort" : "31"},
+{ "title" : "CarrieAndBooks", "id" : "UCWagwPGESinCm58hOwmRvIg", "img" : "", "sort" : "32"}
       ]
     }    
   ]
