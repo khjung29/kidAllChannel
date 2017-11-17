@@ -3,7 +3,7 @@
     {
       "title" : "어린이",
       "fbNativeInterval" : "10",
-      "notiOn" : "true",
+      "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
       "notiPositiveText" : "확인",
