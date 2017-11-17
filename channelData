@@ -6,6 +6,8 @@
       "notiOn" : "true",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
