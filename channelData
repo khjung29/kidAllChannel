@@ -2,6 +2,7 @@
   "channels" : [
     {
       "title" : "어린이",
+      "fbNativeInterval" : "10",
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
