@@ -61,16 +61,8 @@
 { "title" : "토이롤", "id" : "UCzgst-b7bbFuBpGhyB8qQHw", "img" : "", "sort" : "46"},
 { "title" : "ToySpace 토이스페이스", "id" : "UCB89VdFsWxBsUBy2O2lB5og", "img" : "", "sort" : "47"},
 { "title" : "ToyparkTv 토이파크", "id" : "UCAPVYRwD-6yYx85oqgFnqCw", "img" : "", "sort" : "48"},
-{ "title" : "토이랜드 ToyLand", "id" : "UC8pRqd45x2uhF2_7fxKG0yA", "img" : "", "sort" : "49"},
-{ "title" : "[토이팩토리] ToyFactory(장난감TV)", "id" : "UCifWNRrXHbRYdgYYiqE9OyQ", "img" : "", "sort" : "50"},
-{ "title" : "[장난감티비]TOYTV", "id" : "UCtzr07Iifce7-48Kw1phdzg", "img" : "", "sort" : "51"},
-{ "title" : "퍼플 토이박스(Purple Toy Box)", "id" : "UCbgeB2Zl2NoSs7r1LQMdNOw", "img" : "", "sort" : "52"},
-{ "title" : "Car & Robot Toy", "id" : "UCHeWOk-AgBKKhWvhCpCeu4g", "img" : "", "sort" : "53"},
-{ "title" : "지호토이TV JIHOTOY", "id" : "UCy7h0uG0btRO-X9rx8oPdgg", "img" : "", "sort" : "54"},
-{ "title" : "두두팝토이", "id" : "UCByBXiL8TC7atFvIuNC95Hg", "img" : "", "sort" : "55"},
-{ "title" : "[루피토이] Ruppy Toy", "id" : "UCTkui-4wvMLxfSSJo7MIKaQ", "img" : "", "sort" : "56"},
-{ "title" : "토이마트 TV", "id" : "UCbWPYsyJX1-7uvfOw3LkLqw", "img" : "", "sort" : "57"},
-{ "title" : "CKN Toys", "id" : "UCfaZw8XH_zmAVkBst_MPD6w", "img" : "", "sort" : "58"}
+{ "title" : "토이랜드 ToyLand", "id" : "UC8pRqd45x2uhF2_7fxKG0yA", "img" : "", "sort" : "49"}
+
       ]
     }    
   ]
