@@ -62,9 +62,7 @@
 { "title" : "ToySpace 토이스페이스", "id" : "UCB89VdFsWxBsUBy2O2lB5og", "img" : "", "sort" : "47"},
 { "title" : "ToyparkTv 토이파크", "id" : "UCAPVYRwD-6yYx85oqgFnqCw", "img" : "", "sort" : "48"},
 { "title" : "토이랜드 ToyLand", "id" : "UC8pRqd45x2uhF2_7fxKG0yA", "img" : "", "sort" : "49"},
-{ "title" : "ToyFactory(장난감TV)", "id" : "UCifWNRrXHbRYdgYYiqE9OyQ", "img" : "", "sort" : "50"},
-{ "title" : "[장난감티비]TOYTV", "id" : "UCtzr07Iifce7-48Kw1phdzg", "img" : "", "sort" : "51"}
-
+{ "title" : "ToyFactory(장난감TV)", "id" : "UCifWNRrXHbRYdgYYiqE9OyQ", "img" : "", "sort" : "50"}
       ]
     }    
   ]
