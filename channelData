@@ -2,7 +2,7 @@
   "channels" : [
     {
       "title" : "어린이",
-      "fbNativeInterval" : "10",
+      "fbNativeInterval" : "3",
       "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
